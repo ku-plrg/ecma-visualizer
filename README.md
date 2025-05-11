@@ -1,5 +1,5 @@
 > [!IMPORTANT]
-> The repository has been moved to [es-meta/ecma-visualizer](https://github.com/ku-plrg/ecma-visualizer).
+> The repository has been moved to [es-meta/ecma-visualizer](https://github.com/es-meta/ecma-visualizer).
 
 # ECMAScript Visualizer
 
